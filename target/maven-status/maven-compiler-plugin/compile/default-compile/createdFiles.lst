@@ -1,0 +1,8 @@
+com\bia\lc\config\LoveCalculatorApllicationInitializer.class
+com\bia\lc\api\UserRegistrationDTO.class
+com\bia\lc\controllers\RegistrationController.class
+com\bia\lc\api\UserInfoDTO.class
+com\bia\lc\controllers\LCAppController.class
+com\bia\lc\controllers\TestController.class
+com\bia\lc\config\LCAppIntializer.class
+com\bia\lc\config\LoveCalculatorAppConfig.class
